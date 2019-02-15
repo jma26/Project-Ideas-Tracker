@@ -13,3 +13,8 @@ List of future project to tackle in the next 12 months
    * Keep track of your expenses everytime you go out
    * Log in any expenses and purchases
    * Email total expenses to user every week
+   
+4) Email Tracker
+   * Setup an email submission form
+   * Collect emails to automatically populate a google drive excel sheet
+   * Display live count of emails collected below email submission form
