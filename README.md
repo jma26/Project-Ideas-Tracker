@@ -1,7 +1,7 @@
 # Project-Ideas-Tracker
 List of future project to tackle in the next 12 months
 
-1) Graphicsl representation of city crimes in comparison to state average
+1) Graphical representation of city crimes in comparison to state average
    * Users can type in the city and state to search
    * Bar graphs crime rate in relation to state average separated by years
 
@@ -18,3 +18,12 @@ List of future project to tackle in the next 12 months
    * Setup an email submission form
    * Collect emails to automatically populate a google drive excel sheet
    * Display live count of emails collected below email submission form
+   
+5) Online Quiz management system
+   * Online Quiz about coding/programming concepts
+   * Users can add new coding questions
+   * Users can flag questions that are irrelevant or incorrect
+   
+6) TutorMe
+   * 24/7 free tutoring assistance for students
+   * Real-time chat messenging or video stream between tutors and students
