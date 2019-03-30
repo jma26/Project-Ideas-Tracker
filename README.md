@@ -27,3 +27,10 @@ List of future project to tackle in the next 12 months
 6) TutorMe
    * 24/7 free tutoring assistance for students
    * Real-time chat messenging or video stream between tutors and students
+   
+7) Email
+   * Create an application where you can mail from a command line interace (CLI)
+   * Two technologies: Node.js, Python Flask
+   * Node.js: NodeMailer
+   * Python Flask: Flask-Mail
+   * Connect to personal portfolio to allow emailing from within
