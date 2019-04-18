@@ -34,3 +34,16 @@ List of future project to tackle in the next 12 months
    * Node.js: NodeMailer
    * Python Flask: Flask-Mail
    * Connect to personal portfolio to allow emailing from within
+   
+8) Strobe Light
+   * Create a mobile app where camera's light responds to sound/noise
+   * Any mobile framework
+
+9) Morse Code 
+   * Create a mobile app where user can input letters, words in the input box
+   * Each letter and word will be translated to morse code through mobile phone's light functionality
+
+10) PG13 Tracker
+   * Mobile app that allows parents keep track of their child's phone activities
+   * Keep track of activities such as sites visited, hours on social media, location of child
+   * Safety tool for parents!
