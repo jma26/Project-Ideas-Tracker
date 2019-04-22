@@ -47,3 +47,8 @@ List of future project to tackle in the next 12 months
    * Mobile app that allows parents keep track of their child's phone activities
    * Keep track of activities such as sites visited, hours on social media, location of child
    * Safety tool for parents!
+
+11) eCommerce Site
+   * eCommerce site with PayPal functionality
+   * Built with any technology: React.js, Vue.js, or Angular.js
+   * Database implementation to store user and product information
