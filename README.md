@@ -35,11 +35,11 @@ List of future project to tackle in the next 12 months
    * Python Flask: Flask-Mail
    * Connect to personal portfolio to allow emailing from within
    
-8) Strobe Light
+8) Strobe Light [**FUN**]
    * Create a mobile app where camera's light responds to sound/noise
    * Any mobile framework
 
-9) Morse Code 
+9) Morse Code [**FUN**]
    * Create a mobile app where user can input letters, words in the input box
    * Each letter and word will be translated to morse code through mobile phone's light functionality
 
@@ -58,3 +58,8 @@ List of future project to tackle in the next 12 months
     * Users can order a drink online without using the phone to place an order
     * Check out with credit/debit card, payPal, googlePay, applePay
     * Option to have the drink delivered to customer and a real-time map displaying driver's location
+
+13) Whip App [**FUN**]
+    * Idea from the Big Bang theory episode where Howard is controlled by Bernadette and Sheldon proceeds to 'whip' is phone and makes a whiplash sound
+    * Recreate the mobile app for fun!
+    * Utilize the phone's accelerometer and at the threshold, make the 'whip' sound
