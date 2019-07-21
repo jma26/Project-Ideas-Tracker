@@ -63,3 +63,8 @@ List of future project to tackle in the next 12 months
     * Idea from the Big Bang theory episode where Howard is controlled by Bernadette and Sheldon proceeds to 'whip' is phone and makes a whiplash sound
     * Recreate the mobile app for fun!
     * Utilize the phone's accelerometer and at the threshold, make the 'whip' sound
+
+14) Bread Layout Helper
+    * Drag-and-drop web application for bakeries and cafes
+    * Option to add additional pastry selection on top of default list
+    * Printable to PDF 
