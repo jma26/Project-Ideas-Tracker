@@ -69,3 +69,9 @@ List of future project to tackle in the next 12 months
     * Drag-and-drop web application for bakeries and cafes
     * Option to add additional pastry selection on top of default list
     * Printable to PDF 
+    
+1. Pomodoro Focus
+    * Mobile and web application that keeps track of time spent on "focus mode"
+    * At end of timer, play a random Youtube video or song indicating it's time for a break
+    * User can adjust how long the "focus mode" is
+    * "Focus mode" is recorded with start-time + date, end-time + date. All of which is saved to user profile
