@@ -75,3 +75,8 @@ List of future project to tackle in the next 12 months
     * At end of timer, play a random Youtube video or song indicating it's time for a break
     * User can adjust how long the "focus mode" is
     * "Focus mode" is recorded with start-time + date, end-time + date. All of which is saved to user profile
+    
+ 1. Product Swatcher [GUIDE]
+    * Mainly for E-commerce platforms like Shopify or BigCommerce
+    * Most platforms do not have the functionality of displaying product images based on selected product variant
+    * Ste-by-step guide would be helpful
