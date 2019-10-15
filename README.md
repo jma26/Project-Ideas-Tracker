@@ -80,3 +80,8 @@ List of future project to tackle in the next 12 months
     * Mainly for E-commerce platforms like Shopify or BigCommerce
     * Most platforms do not have the functionality of displaying product images based on selected product variant
     * Ste-by-step guide would be helpful
+    
+ 1. Auto Reseller [Practice]
+    * Ebay-like site that allows merchants/sellers to sell automotives
+    * Buyers can open a direct chat line to merchants on product
+    * Push notifications, Map location, product pictures
