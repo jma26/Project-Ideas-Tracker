@@ -7,9 +7,9 @@ List of future project to tackle in the next 12 months
    * ~~Users can type in the city and state to search~~
    * ~~Bar graphs crime rate in relation to state average separated by years~~   
 
-1. Date planner for couples or single people looking for something to do on a date
-   * Web application utilizing Yelp Fusion API
-   * Display a map with directions to the destination
+~~Date planner for couples or single people looking for something to do on a date~~
+   * ~~Web application utilizing Yelp Fusion API~~
+   * ~~Display a map with directions to the destination~~
   
 1. Expense tracker
    * Keep track of your expenses everytime you go out
@@ -85,3 +85,8 @@ List of future project to tackle in the next 12 months
     * Ebay-like site that allows merchants/sellers to sell automotives
     * Buyers can open a direct chat line to merchants on product
     * Push notifications, Map location, product pictures
+    
+ 1. Security Snapshot [Challenging - Fun]
+    * Device takes a snapshot of the entrance when front door is open
+    * Save image to onboard USB/Upload image to google drive/
+    * Send text or email notification with the recent snapshot to user
