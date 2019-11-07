@@ -90,3 +90,8 @@ List of future project to tackle in the next 12 months
     * Device takes a snapshot of the entrance when front door is open
     * Save image to onboard USB/Upload image to google drive/
     * Send text or email notification with the recent snapshot to user
+    
+ 1. UnSplash API [API Practice]
+    * Create a site that fetches images using UnSplash API
+    * Understand the concepts of async/await 
+    * No framework
