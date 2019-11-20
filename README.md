@@ -99,3 +99,8 @@ List of future project to tackle in the next 12 months
 1. Embedded Youtube API
    * NPM module to embed Youtube videos in the background
    * Lots of difficulties understanding Youtube API
+   
+1. Password Generator
+   * Generate a random, yet complicated password
+   * Salted password
+   * Node module
