@@ -95,3 +95,7 @@ List of future project to tackle in the next 12 months
     * Create a site that fetches images using UnSplash API
     * Understand the concepts of async/await 
     * No framework
+
+1. Embedded Youtube API
+   * NPM module to embed Youtube videos in the background
+   * Lots of difficulties understanding Youtube API
