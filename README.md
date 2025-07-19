@@ -104,3 +104,7 @@ List of future project to tackle in the next 12 months
    * Generate a random, yet complicated password
    * Salted password
    * Node module
+
+1. Random Cat Meme Generator
+   * Generate a random animated memee at a push of a button
+   * Perfect for someone who loves cats
