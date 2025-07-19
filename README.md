@@ -108,3 +108,9 @@ List of future project to tackle in the next 12 months
 1. Random Cat Meme Generator
    * Generate a random animated memee at a push of a button
    * Perfect for someone who loves cats
+  
+1. Field Service CRM
+   * Customer data management with scheduling, dispatching, and real-time tracking features
+   * Work order management
+   * Inventory management
+   * Mobile accessibility (mobile app tool)
