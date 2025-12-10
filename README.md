@@ -10,6 +10,10 @@ List of future project to tackle in the next 12 months
 ~~Date planner for couples or single people looking for something to do on a date~~
    * ~~Web application utilizing Yelp Fusion API~~
    * ~~Display a map with directions to the destination~~
+
+~~Random Cat Meme Generator~~
+   * ~~Generate a random animated memee at a push of a button~~
+   * ~~Perfect for someone who loves cats~~
   
 1. Expense tracker
    * Keep track of your expenses everytime you go out
@@ -104,10 +108,6 @@ List of future project to tackle in the next 12 months
    * Generate a random, yet complicated password
    * Salted password
    * Node module
-
-1. Random Cat Meme Generator
-   * Generate a random animated memee at a push of a button
-   * Perfect for someone who loves cats
   
 1. Field Service CRM
    * Customer data management with scheduling, dispatching, and real-time tracking features
